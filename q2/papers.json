@@ -1,0 +1,1097 @@
+[
+  {
+    "arxiv_id": "2012.11510v1",
+    "title": "Design Rule Checking with a CNN Based Feature Extractor",
+    "authors": [
+      "Luis Francisco",
+      "Tanmay Lagare",
+      "Arpit Jain",
+      "Somal Chaudhary",
+      "Madhura Kulkarni",
+      "Divya Sardana",
+      "W. Rhett Davis",
+      "Paul Franzon"
+    ],
+    "abstract": "Design rule checking (DRC) is getting increasingly complex in advanced nodes technologies. It would be highly desirable to have a fast interactive DRC engine that could be used during layout. In this work, we establish the proof of feasibility for such an engine. The proposed model consists of a convolutional neural network (CNN) trained to detect DRC violations. The model was trained with artificial data that was derived from a set of $50$ SRAM designs. The focus in this demonstration was metal 1 rules. Using this solution, we can detect multiple DRC violations 32x faster than Boolean checkers with an accuracy of up to 92. The proposed solution can be easily expanded to a complete rule set.",
+    "categories": [
+      "cs.LG"
+    ],
+    "published": "2020-12-21T17:26:31Z",
+    "updated": "2020-12-21T17:26:31Z",
+    "abstract_stats": {
+      "total_words": 117,
+      "unique_words": 79,
+      "top_20_words": [
+        {
+          "word": "drc",
+          "frequency": 4
+        },
+        {
+          "word": "detect",
+          "frequency": 2
+        },
+        {
+          "word": "engine",
+          "frequency": 2
+        },
+        {
+          "word": "model",
+          "frequency": 2
+        },
+        {
+          "word": "proposed",
+          "frequency": 2
+        },
+        {
+          "word": "rule",
+          "frequency": 2
+        },
+        {
+          "word": "set",
+          "frequency": 2
+        },
+        {
+          "word": "solution",
+          "frequency": 2
+        },
+        {
+          "word": "trained",
+          "frequency": 2
+        },
+        {
+          "word": "violations",
+          "frequency": 2
+        },
+        {
+          "word": "1",
+          "frequency": 1
+        },
+        {
+          "word": "32x",
+          "frequency": 1
+        },
+        {
+          "word": "50",
+          "frequency": 1
+        },
+        {
+          "word": "92",
+          "frequency": 1
+        },
+        {
+          "word": "accuracy",
+          "frequency": 1
+        },
+        {
+          "word": "advanced",
+          "frequency": 1
+        },
+        {
+          "word": "artificial",
+          "frequency": 1
+        },
+        {
+          "word": "boolean",
+          "frequency": 1
+        },
+        {
+          "word": "checkers",
+          "frequency": 1
+        },
+        {
+          "word": "checking",
+          "frequency": 1
+        }
+      ],
+      "total_sentences": 8,
+      "avg_words_per_sentence": 14.625,
+      "longest_sentence_words": 21,
+      "shortest_sentence_words": 9,
+      "avg_word_length": 4.854700854700854
+    }
+  },
+  {
+    "arxiv_id": "2012.11638v1",
+    "title": "Unsupervised in-distribution anomaly detection of new physics through conditional density estimation",
+    "authors": [
+      "George Stein",
+      "Uros Seljak",
+      "Biwei Dai"
+    ],
+    "abstract": "Anomaly detection is a key application of machine learning, but is generally focused on the detection of outlying samples in the low probability density regions of data. Here we instead present and motivate a method for unsupervised in-distribution anomaly detection using a conditional density estimator, designed to find unique, yet completely unknown, sets of samples residing in high probability density regions. We apply this method towards the detection of new physics in simulated Large Hadron Collider (LHC) particle collisions as part of the 2020 LHC Olympics blind challenge, and show how we detected a new particle appearing in only 0.08% of 1 million collision events. The results we present are our original blind submission to the 2020 LHC Olympics, where it achieved the state-of-the-art performance.",
+    "categories": [
+      "cs.LG",
+      "hep-ex",
+      "physics.data-an"
+    ],
+    "published": "2020-12-21T19:05:22Z",
+    "updated": "2020-12-21T19:05:22Z",
+    "abstract_stats": {
+      "total_words": 130,
+      "unique_words": 85,
+      "top_20_words": [
+        {
+          "word": "detection",
+          "frequency": 4
+        },
+        {
+          "word": "density",
+          "frequency": 3
+        },
+        {
+          "word": "lhc",
+          "frequency": 3
+        },
+        {
+          "word": "2020",
+          "frequency": 2
+        },
+        {
+          "word": "anomaly",
+          "frequency": 2
+        },
+        {
+          "word": "blind",
+          "frequency": 2
+        },
+        {
+          "word": "method",
+          "frequency": 2
+        },
+        {
+          "word": "new",
+          "frequency": 2
+        },
+        {
+          "word": "olympics",
+          "frequency": 2
+        },
+        {
+          "word": "particle",
+          "frequency": 2
+        },
+        {
+          "word": "present",
+          "frequency": 2
+        },
+        {
+          "word": "probability",
+          "frequency": 2
+        },
+        {
+          "word": "regions",
+          "frequency": 2
+        },
+        {
+          "word": "samples",
+          "frequency": 2
+        },
+        {
+          "word": "0",
+          "frequency": 1
+        },
+        {
+          "word": "08",
+          "frequency": 1
+        },
+        {
+          "word": "1",
+          "frequency": 1
+        },
+        {
+          "word": "achieved",
+          "frequency": 1
+        },
+        {
+          "word": "appearing",
+          "frequency": 1
+        },
+        {
+          "word": "application",
+          "frequency": 1
+        }
+      ],
+      "total_sentences": 5,
+      "avg_words_per_sentence": 26.0,
+      "longest_sentence_words": 39,
+      "shortest_sentence_words": 6,
+      "avg_word_length": 5.176923076923077
+    }
+  },
+  {
+    "arxiv_id": "2012.11325v1",
+    "title": "Detecting Botnet Attacks in IoT Environments: An Optimized Machine Learning Approach",
+    "authors": [
+      "MohammadNoor Injadat",
+      "Abdallah Moubayed",
+      "Abdallah Shami"
+    ],
+    "abstract": "The increased reliance on the Internet and the corresponding surge in connectivity demand has led to a significant growth in Internet-of-Things (IoT) devices. The continued deployment of IoT devices has in turn led to an increase in network attacks due to the larger number of potential attack surfaces as illustrated by the recent reports that IoT malware attacks increased by 215.7% from 10.3 million in 2017 to 32.7 million in 2018. This illustrates the increased vulnerability and susceptibility of IoT devices and networks. Therefore, there is a need for proper effective and efficient attack detection and mitigation techniques in such environments. Machine learning (ML) has emerged as one potential solution due to the abundance of data generated and available for IoT devices and networks. Hence, they have significant potential to be adopted for intrusion detection for IoT environments. To that end, this paper proposes an optimized ML-based framework consisting of a combination of Bayesian optimization Gaussian Process (BO-GP) algorithm and decision tree (DT) classification model to detect attacks on IoT devices in an effective and efficient manner. The performance of the proposed framework is evaluated using the Bot-IoT-2018 dataset. Experimental results show that the proposed optimized framework has a high detection accuracy, precision, recall, and F-score, highlighting its effectiveness and robustness for the detection of botnet attacks in IoT environments.",
+    "categories": [
+      "cs.CR",
+      "cs.LG",
+      "cs.NI"
+    ],
+    "published": "2020-12-16T16:39:55Z",
+    "updated": "2020-12-16T16:39:55Z",
+    "abstract_stats": {
+      "total_words": 230,
+      "unique_words": 126,
+      "top_20_words": [
+        {
+          "word": "iot",
+          "frequency": 9
+        },
+        {
+          "word": "devices",
+          "frequency": 5
+        },
+        {
+          "word": "attacks",
+          "frequency": 4
+        },
+        {
+          "word": "detection",
+          "frequency": 4
+        },
+        {
+          "word": "environments",
+          "frequency": 3
+        },
+        {
+          "word": "framework",
+          "frequency": 3
+        },
+        {
+          "word": "increased",
+          "frequency": 3
+        },
+        {
+          "word": "potential",
+          "frequency": 3
+        },
+        {
+          "word": "2018",
+          "frequency": 2
+        },
+        {
+          "word": "7",
+          "frequency": 2
+        },
+        {
+          "word": "attack",
+          "frequency": 2
+        },
+        {
+          "word": "due",
+          "frequency": 2
+        },
+        {
+          "word": "effective",
+          "frequency": 2
+        },
+        {
+          "word": "efficient",
+          "frequency": 2
+        },
+        {
+          "word": "internet",
+          "frequency": 2
+        },
+        {
+          "word": "led",
+          "frequency": 2
+        },
+        {
+          "word": "million",
+          "frequency": 2
+        },
+        {
+          "word": "ml",
+          "frequency": 2
+        },
+        {
+          "word": "networks",
+          "frequency": 2
+        },
+        {
+          "word": "optimized",
+          "frequency": 2
+        }
+      ],
+      "total_sentences": 12,
+      "avg_words_per_sentence": 19.166666666666668,
+      "longest_sentence_words": 41,
+      "shortest_sentence_words": 3,
+      "avg_word_length": 5.339130434782609
+    }
+  },
+  {
+    "arxiv_id": "2012.11327v1",
+    "title": "Collaborative residual learners for automatic icd10 prediction using prescribed medications",
+    "authors": [
+      "Yassien Shaalan",
+      "Alexander Dokumentov",
+      "Piyapong Khumrin",
+      "Krit Khwanngern",
+      "Anawat Wisetborisu",
+      "Thanakom Hatsadeang",
+      "Nattapat Karaket",
+      "Witthawin Achariyaviriya",
+      "Sansanee Auephanwiriyakul",
+      "Nipon Theera-Umpon",
+      "Terence Siganakis"
+    ],
+    "abstract": "Clinical coding is an administrative process that involves the translation of diagnostic data from episodes of care into a standard code format such as ICD10. It has many critical applications such as billing and aetiology research. The automation of clinical coding is very challenging due to data sparsity, low interoperability of digital health systems, complexity of real-life diagnosis coupled with the huge size of ICD10 code space. Related work suffer from low applicability due to reliance on many data sources, inefficient modelling and less generalizable solutions. We propose a novel collaborative residual learning based model to automatically predict ICD10 codes employing only prescriptions data. Extensive experiments were performed on two real-world clinical datasets (outpatient & inpatient) from Maharaj Nakorn Chiang Mai Hospital with real case-mix distributions. We obtain multi-label classification accuracy of 0.71 and 0.57 of average precision, 0.57 and 0.38 of F1-score and 0.73 and 0.44 of accuracy in predicting principal diagnosis for inpatient and outpatient datasets respectively.",
+    "categories": [
+      "cs.IR",
+      "cs.LG"
+    ],
+    "published": "2020-12-16T07:07:27Z",
+    "updated": "2020-12-16T07:07:27Z",
+    "abstract_stats": {
+      "total_words": 169,
+      "unique_words": 116,
+      "top_20_words": [
+        {
+          "word": "0",
+          "frequency": 6
+        },
+        {
+          "word": "data",
+          "frequency": 4
+        },
+        {
+          "word": "clinical",
+          "frequency": 3
+        },
+        {
+          "word": "icd10",
+          "frequency": 3
+        },
+        {
+          "word": "real",
+          "frequency": 3
+        },
+        {
+          "word": "57",
+          "frequency": 2
+        },
+        {
+          "word": "accuracy",
+          "frequency": 2
+        },
+        {
+          "word": "code",
+          "frequency": 2
+        },
+        {
+          "word": "coding",
+          "frequency": 2
+        },
+        {
+          "word": "datasets",
+          "frequency": 2
+        },
+        {
+          "word": "diagnosis",
+          "frequency": 2
+        },
+        {
+          "word": "due",
+          "frequency": 2
+        },
+        {
+          "word": "inpatient",
+          "frequency": 2
+        },
+        {
+          "word": "low",
+          "frequency": 2
+        },
+        {
+          "word": "many",
+          "frequency": 2
+        },
+        {
+          "word": "outpatient",
+          "frequency": 2
+        },
+        {
+          "word": "38",
+          "frequency": 1
+        },
+        {
+          "word": "44",
+          "frequency": 1
+        },
+        {
+          "word": "71",
+          "frequency": 1
+        },
+        {
+          "word": "73",
+          "frequency": 1
+        }
+      ],
+      "total_sentences": 13,
+      "avg_words_per_sentence": 13.0,
+      "longest_sentence_words": 32,
+      "shortest_sentence_words": 3,
+      "avg_word_length": 5.479289940828402
+    }
+  },
+  {
+    "arxiv_id": "2012.11333v1",
+    "title": "Ensemble model for pre-discharge icd10 coding prediction",
+    "authors": [
+      "Yassien Shaalan",
+      "Alexander Dokumentov",
+      "Piyapong Khumrin",
+      "Krit Khwanngern",
+      "Anawat Wisetborisu",
+      "Thanakom Hatsadeang",
+      "Nattapat Karaket",
+      "Witthawin Achariyaviriya",
+      "Sansanee Auephanwiriyakul",
+      "Nipon Theera-Umpon",
+      "Terence Siganakis"
+    ],
+    "abstract": "The translation of medical diagnosis to clinical coding has wide range of applications in billing, aetiology analysis, and auditing. Currently, coding is a manual effort while the automation of such task is not straight forward. Among the challenges are the messy and noisy clinical records, case complexities, along with the huge ICD10 code space. Previous work mainly relied on discharge notes for prediction and was applied to a very limited data scale. We propose an ensemble model incorporating multiple clinical data sources for accurate code predictions. We further propose an assessment mechanism to provide confidence rates in predicted outcomes. Extensive experiments were performed on two new real-world clinical datasets (inpatient & outpatient) with unaltered case-mix distributions from Maharaj Nakorn Chiang Mai Hospital. We obtain multi-label classification accuracies of 0.73 and 0.58 for average precision, 0.56 and 0.35 for F1-scores and 0.71 and 0.4 accuracy in predicting principal diagnosis for inpatient and outpatient datasets respectively.",
+    "categories": [
+      "cs.IR",
+      "cs.LG"
+    ],
+    "published": "2020-12-16T07:02:56Z",
+    "updated": "2020-12-16T07:02:56Z",
+    "abstract_stats": {
+      "total_words": 163,
+      "unique_words": 117,
+      "top_20_words": [
+        {
+          "word": "0",
+          "frequency": 6
+        },
+        {
+          "word": "clinical",
+          "frequency": 4
+        },
+        {
+          "word": "case",
+          "frequency": 2
+        },
+        {
+          "word": "code",
+          "frequency": 2
+        },
+        {
+          "word": "coding",
+          "frequency": 2
+        },
+        {
+          "word": "data",
+          "frequency": 2
+        },
+        {
+          "word": "datasets",
+          "frequency": 2
+        },
+        {
+          "word": "diagnosis",
+          "frequency": 2
+        },
+        {
+          "word": "inpatient",
+          "frequency": 2
+        },
+        {
+          "word": "outpatient",
+          "frequency": 2
+        },
+        {
+          "word": "propose",
+          "frequency": 2
+        },
+        {
+          "word": "35",
+          "frequency": 1
+        },
+        {
+          "word": "4",
+          "frequency": 1
+        },
+        {
+          "word": "56",
+          "frequency": 1
+        },
+        {
+          "word": "58",
+          "frequency": 1
+        },
+        {
+          "word": "71",
+          "frequency": 1
+        },
+        {
+          "word": "73",
+          "frequency": 1
+        },
+        {
+          "word": "accuracies",
+          "frequency": 1
+        },
+        {
+          "word": "accuracy",
+          "frequency": 1
+        },
+        {
+          "word": "accurate",
+          "frequency": 1
+        }
+      ],
+      "total_sentences": 14,
+      "avg_words_per_sentence": 11.642857142857142,
+      "longest_sentence_words": 24,
+      "shortest_sentence_words": 3,
+      "avg_word_length": 5.423312883435583
+    }
+  },
+  {
+    "arxiv_id": "2012.11337v1",
+    "title": "Single-level Optimization For Differential Architecture Search",
+    "authors": [
+      "Pengfei Hou",
+      "Ying Jin"
+    ],
+    "abstract": "In this paper, we point out that differential architecture search (DARTS) makes gradient of architecture parameters biased for network weights and architecture parameters are updated in different datasets alternatively in the bi-level optimization framework. The bias causes the architecture parameters of non-learnable operations to surpass that of learnable operations. Moreover, using softmax as architecture parameters' activation function and inappropriate learning rate would exacerbate the bias. As a result, it's frequently observed that non-learnable operations are dominated in the search phase. To reduce the bias, we propose to use single-level to replace bi-level optimization and non-competitive activation function like sigmoid to replace softmax. As a result, we could search high-performance architectures steadily. Experiments on NAS Benchmark 201 validate our hypothesis and stably find out nearly the optimal architecture. On DARTS space, we search the state-of-the-art architecture with 77.0% top1 accuracy (training setting follows PDARTS and without any additional module) on ImageNet-1K and steadily search architectures up-to 76.5% top1 accuracy (but not select the best from the searched architectures) which is comparable with current reported best result.",
+    "categories": [
+      "cs.LG"
+    ],
+    "published": "2020-12-15T18:40:33Z",
+    "updated": "2020-12-15T18:40:33Z",
+    "abstract_stats": {
+      "total_words": 190,
+      "unique_words": 113,
+      "top_20_words": [
+        {
+          "word": "architecture",
+          "frequency": 7
+        },
+        {
+          "word": "search",
+          "frequency": 5
+        },
+        {
+          "word": "parameters",
+          "frequency": 4
+        },
+        {
+          "word": "architectures",
+          "frequency": 3
+        },
+        {
+          "word": "bias",
+          "frequency": 3
+        },
+        {
+          "word": "learnable",
+          "frequency": 3
+        },
+        {
+          "word": "level",
+          "frequency": 3
+        },
+        {
+          "word": "non",
+          "frequency": 3
+        },
+        {
+          "word": "operations",
+          "frequency": 3
+        },
+        {
+          "word": "result",
+          "frequency": 3
+        },
+        {
+          "word": "accuracy",
+          "frequency": 2
+        },
+        {
+          "word": "activation",
+          "frequency": 2
+        },
+        {
+          "word": "best",
+          "frequency": 2
+        },
+        {
+          "word": "bi",
+          "frequency": 2
+        },
+        {
+          "word": "darts",
+          "frequency": 2
+        },
+        {
+          "word": "function",
+          "frequency": 2
+        },
+        {
+          "word": "optimization",
+          "frequency": 2
+        },
+        {
+          "word": "out",
+          "frequency": 2
+        },
+        {
+          "word": "replace",
+          "frequency": 2
+        },
+        {
+          "word": "softmax",
+          "frequency": 2
+        }
+      ],
+      "total_sentences": 10,
+      "avg_words_per_sentence": 19.0,
+      "longest_sentence_words": 35,
+      "shortest_sentence_words": 10,
+      "avg_word_length": 5.636842105263158
+    }
+  },
+  {
+    "arxiv_id": "2012.11400v2",
+    "title": "Unifying Homophily and Heterophily Network Transformation via Motifs",
+    "authors": [
+      "Yan Ge",
+      "Jun Ma",
+      "Li Zhang",
+      "Haiping Lu"
+    ],
+    "abstract": "Higher-order proximity (HOP) is fundamental for most network embedding methods due to its significant effects on the quality of node embedding and performance on downstream network analysis tasks. Most existing HOP definitions are based on either homophily to place close and highly interconnected nodes tightly in embedding space or heterophily to place distant but structurally similar nodes together after embedding. In real-world networks, both can co-exist, and thus considering only one could limit the prediction performance and interpretability. However, there is no general and universal solution that takes both into consideration. In this paper, we propose such a simple yet powerful framework called homophily and heterophliy preserving network transformation (H2NT) to capture HOP that flexibly unifies homophily and heterophily. Specifically, H2NT utilises motif representations to transform a network into a new network with a hybrid assumption via micro-level and macro-level walk paths. H2NT can be used as an enhancer to be integrated with any existing network embedding methods without requiring any changes to latter methods. Because H2NT can sparsify networks with motif structures, it can also improve the computational efficiency of existing network embedding methods when integrated. We conduct experiments on node classification, structural role classification and motif prediction to show the superior prediction performance and computational efficiency over state-of-the-art methods. In particular, DeepWalk-based H2 NT achieves 24% improvement in terms of precision on motif prediction, while reducing 46% computational time compared to the original DeepWalk.",
+    "categories": [
+      "cs.SI",
+      "cs.LG"
+    ],
+    "published": "2020-12-21T15:03:18Z",
+    "updated": "2020-12-27T15:36:46Z",
+    "abstract_stats": {
+      "total_words": 245,
+      "unique_words": 151,
+      "top_20_words": [
+        {
+          "word": "network",
+          "frequency": 7
+        },
+        {
+          "word": "embedding",
+          "frequency": 6
+        },
+        {
+          "word": "methods",
+          "frequency": 5
+        },
+        {
+          "word": "h2nt",
+          "frequency": 4
+        },
+        {
+          "word": "motif",
+          "frequency": 4
+        },
+        {
+          "word": "prediction",
+          "frequency": 4
+        },
+        {
+          "word": "computational",
+          "frequency": 3
+        },
+        {
+          "word": "existing",
+          "frequency": 3
+        },
+        {
+          "word": "homophily",
+          "frequency": 3
+        },
+        {
+          "word": "hop",
+          "frequency": 3
+        },
+        {
+          "word": "performance",
+          "frequency": 3
+        },
+        {
+          "word": "any",
+          "frequency": 2
+        },
+        {
+          "word": "based",
+          "frequency": 2
+        },
+        {
+          "word": "classification",
+          "frequency": 2
+        },
+        {
+          "word": "deepwalk",
+          "frequency": 2
+        },
+        {
+          "word": "efficiency",
+          "frequency": 2
+        },
+        {
+          "word": "heterophily",
+          "frequency": 2
+        },
+        {
+          "word": "integrated",
+          "frequency": 2
+        },
+        {
+          "word": "level",
+          "frequency": 2
+        },
+        {
+          "word": "networks",
+          "frequency": 2
+        }
+      ],
+      "total_sentences": 10,
+      "avg_words_per_sentence": 24.5,
+      "longest_sentence_words": 32,
+      "shortest_sentence_words": 13,
+      "avg_word_length": 5.7877551020408164
+    }
+  },
+  {
+    "arxiv_id": "2012.10040v1",
+    "title": "Robustness to Spurious Correlations in Text Classification via Automatically Generated Counterfactuals",
+    "authors": [
+      "Zhao Wang",
+      "Aron Culotta"
+    ],
+    "abstract": "Spurious correlations threaten the validity of statistical classifiers. While model accuracy may appear high when the test data is from the same distribution as the training data, it can quickly degrade when the test distribution changes. For example, it has been shown that classifiers perform poorly when humans make minor modifications to change the label of an example. One solution to increase model reliability and generalizability is to identify causal associations between features and classes. In this paper, we propose to train a robust text classifier by augmenting the training data with automatically generated counterfactual data. We first identify likely causal features using a statistical matching approach. Next, we generate counterfactual samples for the original training data by substituting causal features with their antonyms and then assigning opposite labels to the counterfactual samples. Finally, we combine the original data and counterfactual data to train a robust classifier. Experiments on two classification tasks show that a traditional classifier trained on the original data does very poorly on human-generated counterfactual samples (e.g., 10%-37% drop in accuracy). However, the classifier trained on the combined data is more robust and performs well on both the original test data and the counterfactual test data (e.g., 12%-25% increase in accuracy compared with the traditional classifier). Detailed analysis shows that the robust classifier makes meaningful and trustworthy predictions by emphasizing causal features and de-emphasizing non-causal features.",
+    "categories": [
+      "cs.LG"
+    ],
+    "published": "2020-12-18T03:57:32Z",
+    "updated": "2020-12-18T03:57:32Z",
+    "abstract_stats": {
+      "total_words": 236,
+      "unique_words": 125,
+      "top_20_words": [
+        {
+          "word": "data",
+          "frequency": 11
+        },
+        {
+          "word": "classifier",
+          "frequency": 6
+        },
+        {
+          "word": "counterfactual",
+          "frequency": 6
+        },
+        {
+          "word": "causal",
+          "frequency": 5
+        },
+        {
+          "word": "features",
+          "frequency": 5
+        },
+        {
+          "word": "original",
+          "frequency": 4
+        },
+        {
+          "word": "robust",
+          "frequency": 4
+        },
+        {
+          "word": "test",
+          "frequency": 4
+        },
+        {
+          "word": "accuracy",
+          "frequency": 3
+        },
+        {
+          "word": "samples",
+          "frequency": 3
+        },
+        {
+          "word": "training",
+          "frequency": 3
+        },
+        {
+          "word": "classifiers",
+          "frequency": 2
+        },
+        {
+          "word": "distribution",
+          "frequency": 2
+        },
+        {
+          "word": "e",
+          "frequency": 2
+        },
+        {
+          "word": "emphasizing",
+          "frequency": 2
+        },
+        {
+          "word": "example",
+          "frequency": 2
+        },
+        {
+          "word": "g",
+          "frequency": 2
+        },
+        {
+          "word": "generated",
+          "frequency": 2
+        },
+        {
+          "word": "identify",
+          "frequency": 2
+        },
+        {
+          "word": "increase",
+          "frequency": 2
+        }
+      ],
+      "total_sentences": 15,
+      "avg_words_per_sentence": 15.733333333333333,
+      "longest_sentence_words": 28,
+      "shortest_sentence_words": 1,
+      "avg_word_length": 5.656779661016949
+    }
+  },
+  {
+    "arxiv_id": "2012.10056v1",
+    "title": "Transfer Learning Based Automatic Model Creation Tool For Resource Constraint Devices",
+    "authors": [
+      "Karthik Bhat",
+      "Manan Bhandari",
+      "ChangSeok Oh",
+      "Sujin Kim",
+      "Jeeho Yoo"
+    ],
+    "abstract": "With the enhancement of Machine Learning, many tools are being designed to assist developers to easily create their Machine Learning models. In this paper, we propose a novel method for auto creation of such custom models for constraint devices using transfer learning without the need to write any machine learning code. We share the architecture of our automatic model creation tool and the CNN Model created by it using pretrained models such as YAMNet and MobileNetV2 as feature extractors. Finally, we demonstrate accuracy and memory footprint of the model created from the tool by creating an Automatic Image and Audio classifier and report the results of our experiments using Stanford Cars and ESC-50 dataset.",
+    "categories": [
+      "cs.LG"
+    ],
+    "published": "2020-12-18T05:38:58Z",
+    "updated": "2020-12-18T05:38:58Z",
+    "abstract_stats": {
+      "total_words": 115,
+      "unique_words": 76,
+      "top_20_words": [
+        {
+          "word": "learning",
+          "frequency": 4
+        },
+        {
+          "word": "machine",
+          "frequency": 3
+        },
+        {
+          "word": "model",
+          "frequency": 3
+        },
+        {
+          "word": "models",
+          "frequency": 3
+        },
+        {
+          "word": "using",
+          "frequency": 3
+        },
+        {
+          "word": "automatic",
+          "frequency": 2
+        },
+        {
+          "word": "created",
+          "frequency": 2
+        },
+        {
+          "word": "creation",
+          "frequency": 2
+        },
+        {
+          "word": "our",
+          "frequency": 2
+        },
+        {
+          "word": "tool",
+          "frequency": 2
+        },
+        {
+          "word": "50",
+          "frequency": 1
+        },
+        {
+          "word": "accuracy",
+          "frequency": 1
+        },
+        {
+          "word": "any",
+          "frequency": 1
+        },
+        {
+          "word": "architecture",
+          "frequency": 1
+        },
+        {
+          "word": "assist",
+          "frequency": 1
+        },
+        {
+          "word": "audio",
+          "frequency": 1
+        },
+        {
+          "word": "auto",
+          "frequency": 1
+        },
+        {
+          "word": "cars",
+          "frequency": 1
+        },
+        {
+          "word": "classifier",
+          "frequency": 1
+        },
+        {
+          "word": "cnn",
+          "frequency": 1
+        }
+      ],
+      "total_sentences": 4,
+      "avg_words_per_sentence": 28.75,
+      "longest_sentence_words": 36,
+      "shortest_sentence_words": 21,
+      "avg_word_length": 5.182608695652174
+    }
+  },
+  {
+    "arxiv_id": "2012.12056v1",
+    "title": "Data Assimilation in the Latent Space of a Neural Network",
+    "authors": [
+      "Maddalena Amendola",
+      "Rossella Arcucci",
+      "Laetitia Mottet",
+      "Cesar Quilodran Casas",
+      "Shiwei Fan",
+      "Christopher Pain",
+      "Paul Linden",
+      "Yi-Ke Guo"
+    ],
+    "abstract": "There is an urgent need to build models to tackle Indoor Air Quality issue. Since the model should be accurate and fast, Reduced Order Modelling technique is used to reduce the dimensionality of the problem. The accuracy of the model, that represent a dynamic system, is improved integrating real data coming from sensors using Data Assimilation techniques. In this paper, we formulate a new methodology called Latent Assimilation that combines Data Assimilation and Machine Learning. We use a Convolutional neural network to reduce the dimensionality of the problem, a Long-Short-Term-Memory to build a surrogate model of the dynamic system and an Optimal Interpolated Kalman Filter to incorporate real data. Experimental results are provided for CO2 concentration within an indoor space. This methodology can be used for example to predict in real-time the load of virus, such as the SARS-COV-2, in the air by linking it to the concentration of CO2.",
+    "categories": [
+      "cs.LG",
+      "stat.ML"
+    ],
+    "published": "2020-12-22T14:43:50Z",
+    "updated": "2020-12-22T14:43:50Z",
+    "abstract_stats": {
+      "total_words": 156,
+      "unique_words": 95,
+      "top_20_words": [
+        {
+          "word": "data",
+          "frequency": 4
+        },
+        {
+          "word": "assimilation",
+          "frequency": 3
+        },
+        {
+          "word": "model",
+          "frequency": 3
+        },
+        {
+          "word": "real",
+          "frequency": 3
+        },
+        {
+          "word": "air",
+          "frequency": 2
+        },
+        {
+          "word": "build",
+          "frequency": 2
+        },
+        {
+          "word": "co2",
+          "frequency": 2
+        },
+        {
+          "word": "concentration",
+          "frequency": 2
+        },
+        {
+          "word": "dimensionality",
+          "frequency": 2
+        },
+        {
+          "word": "dynamic",
+          "frequency": 2
+        },
+        {
+          "word": "indoor",
+          "frequency": 2
+        },
+        {
+          "word": "methodology",
+          "frequency": 2
+        },
+        {
+          "word": "problem",
+          "frequency": 2
+        },
+        {
+          "word": "reduce",
+          "frequency": 2
+        },
+        {
+          "word": "system",
+          "frequency": 2
+        },
+        {
+          "word": "used",
+          "frequency": 2
+        },
+        {
+          "word": "2",
+          "frequency": 1
+        },
+        {
+          "word": "accuracy",
+          "frequency": 1
+        },
+        {
+          "word": "accurate",
+          "frequency": 1
+        },
+        {
+          "word": "called",
+          "frequency": 1
+        }
+      ],
+      "total_sentences": 7,
+      "avg_words_per_sentence": 22.285714285714285,
+      "longest_sentence_words": 37,
+      "shortest_sentence_words": 11,
+      "avg_word_length": 5.012820512820513
+    }
+  }
+]
